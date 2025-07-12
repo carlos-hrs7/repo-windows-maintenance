@@ -1,5 +1,7 @@
 # repo-windows-maintenance
 Script Desenvolvido para automatizar manutenção e otimização do Windows 
+
+##############################################################################################################
 Autor: Carlos Henrique
 
 Este script em .bat automatiza diversas tarefas essenciais, como:
@@ -13,6 +15,7 @@ Este script em .bat automatiza diversas tarefas essenciais, como:
 
 
 Ideal para quem busca manter o PC rápido e saudável com um clique. Ele exige execução como Administrador.
+##############################################################################################################
 
 
 
